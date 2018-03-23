@@ -1,9 +1,9 @@
-#Mejora Experiencia de App Banco Estado
+# Mejora Experiencia de App Banco Estado
 
 ![Mou icon](http://3.bp.blogspot.com/-aPDeH9T47oo/TwEPPCIEUTI/AAAAAAAAAxo/_SZ5DiQXHJk/s1600/banco+estado.png)
 
-##Introducción
-###Reto para hackaton:
+## Introducción
+### Reto para hackaton:
 >***Elige una app del App Store o Play Store que tenga muchas descargas pero que su experiencia no sea tan buena. Testéala, re-diséñala e impleménta tu versión mejorada.*** 
 
 Dedicamos investigación primero una ronda entre cada uno de los miembros del equipo haciéndonos las siguientes preguntas: ¿Qué App que tengo en mi celular que uso regularmente tiene mala experiencia de usuario a mi parecer? el objetivo de esta pregunta era : 1. Establecer confianza entre los miembros; 2. Identificar  mala experiencia  usuario de una app que tenga altos índices de descarga o que fuera usada regularmente entre los miembros del equipo, este segundo punto con el fin para desarrollar un proyecto que pueda tener sentido para el staff completo.  
@@ -40,14 +40,14 @@ Ante los reclamos de los usuarios Banco Estado responde activamente, no dando un
 
 Con estos antecedentes decidimos definir nuestro proyecto con la mejora del flujo de usuario al tratar de depositar en el celular a terceros que no hayan sido guardados previamente desde el sitio web.
 
-##UX Research
+## UX Research
 
-###User Proto-Personas 
+### User Proto-Personas 
 
 Se realizó un user proto-persona en base a los comentarios de los usuarios en la playStore, [la misión y visión de Banco Estado en su sitio web](http://www.corporativo.bancoestado.cl/acerca-del-bancoestado/plan-estrat%C3%A9gico/misi%C3%B3n-visi%C3%B3n-y-valores-corporativos) y el [mapa estratégico de lineamientos, ámbito de clientes](http://www.corporativo.bancoestado.cl/acerca-del-bancoestado/plan-estrat%C3%A9gico/el-mapa-estrategico-bancoestado-2015---2018): *Liderazgo en Banca Masiva de personas.* Y los testimonios de personas cercanas que usan la aplicación. 
 
 
-###User Proto-Persona 1
+### User Proto-Persona 1
 - **Nombre:** Camilo Gutierrez.
 
 - **Ocupación:** Estudiante Universitario nocturno. Trabaja medio tiempo diurno.
@@ -65,7 +65,7 @@ Necesita aprovechar los tiempos muertos que tiene entre los traslados desde el t
 Su trabajo no le permite acceder a su computador en el día para revisar sus cuentas desde el sitio web de escritorio.
 Necesita un método rápido para pagar y depositar a personas nuevas desde el celular en forma constante, sin tener que usar el sitio web previamente. 
 
-###User Proto-Persona 2
+### User Proto-Persona 2
 
 - **Nombre:** Daniela Pérez.
 
@@ -81,7 +81,7 @@ Usa su banco en el celular por qué esté empezando un microemprendimiento de re
 - **Necesidades y Objetivos:**
 Quedó desempleada hace poco, por lo que trata de no gastar en locomoción, comprando vía internet o por redes sociales insumos para su microemprendimiento. Tiene poco tiempo ya que tiene hijos que debe cuidar, por lo que necesita optimizar sus tiempos y facilitar sus trámites.
 
-###User Proto-Persona 3
+### User Proto-Persona 3
 
 - **Nombre:** Claudio Fernandez.
 
@@ -98,7 +98,7 @@ Es immigrante que obtuvo la nacionalidad hace pocos meses y está en el país tr
 Necesita tener las funcionalidades necesarias para poder transferir a terceros por su celular ya que no posee un computador de escritorio personal del que puede disponer durante el día.
 A veces se pierde en las calles y direcciones, por ello le hes más cómodo siempre utilizar su celular comó informativo.
 
-###User Proto-Persona 4
+### User Proto-Persona 4
 
 - **Nombre:** Mariela Avendaño.
 
@@ -114,7 +114,7 @@ Le gusta vitrinear online productos importados de china, le gusta el maquillaje 
 - **Necesidades y Objetivos:**
 Está acostumbrada a la interacción con las nuevas tecnologías, por lo que percibe de manera natural usar la app móvil de su banco, no tiene mucha paciencia para planificar sus pagos vía desktop, le gusta pagar inmediatamente y en cualquier lugar para no complicarse la vida.
 
-###User Proto-Persona 5
+### User Proto-Persona 5
 
 - **Nombre:** Roberto Lara.
 
@@ -131,7 +131,7 @@ Viaja constamente dentro del país por motivos laborales, le gusta tener ordenad
 Es un usuario no muy recurrente a través de redes sociales, pero que en algunas ocasiones utiliza su banca móvil de cuenta-rut, en general está acostumbrado a otras app de bancos mejor calificadas en experiencia de usuario en la playStore.
 
 
-##Estudio de contenidos
+## Estudio de contenidos
 
 Se realizó un estudio de los contenidos solicitados por banco estado en el sitio online para ingresar una nueva cuenta de destino, y que sea guardada con el fin de replicar y optimizar el task flow seleccionado.
 
@@ -174,11 +174,11 @@ Se dedidió hacer un prototipo de alta fidelidad para poder ser entregado al equ
 [Testeo Video 1](https://drive.google.com/file/d/1AevmMTl0M5_3RJShUtyvf6ZxzMW_cKph/view?usp=sharing)
 No finalizado por problemas técnicos del dispositivo.
 
-##Conclusiones
+## Conclusiones
 Esperamos que los testeos que deben realizarse puedan darnos un feedback que sirva para verificar nuestras hipótesis. Los testeos previos en forma informal si verifican que el flujo de la tarea es fácil de realizar, pero se necesita más tiempo para poder verificarlo en otros usuarios potenciales.
 
 
-#####Herramientas
+##### Herramientas
 ***Front:***
 React
 Dependencias de Bootstrap
