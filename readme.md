@@ -171,6 +171,22 @@ Se dedidió hacer un prototipo de alta fidelidad para poder ser entregado al equ
 [Acceso al proyecto en Figma](https://www.figma.com/file/gncudFk7eiSc5dnY5wZBj6rS/Banco-Estado)
 
 ### Testeo
+
+#### Objetivos:
+Probar Flujo de tarea
+Testear jerarquía visual
+Accesibilidad
+Si facilita la experiencia de usuario
+
+#### Introducción:
+Eres usuario de la app de banco estado y necesitas devolver el monto que tu amiga te prestó en el último carrete, pero ella está de vacaciones, para ello usas tú aplicación móvil para depositar a través de la banca móvil. Los datos de su cuenta te los envío por WhatsApp, porque no la tienes registrada como cuenta frecuente de destino. ¿Cómo harías el depósito a través de tu app móvil?
+El pago es a través de tu cuenta RUT,  el monto $ 20.000. pesos y el nombre de tu amiga es María. 
+
+
+#### Resultados
+El primer testeo a una joven de 22 años usuaria frecuente de célular, terminó antes de que ejecutara la tarea completa por problemas técnicos del dispositivo en el cual se hizo el testeo (celular) hasta el comienzo de la tarea, siguió sin problemas las pasos esperados. 
+
+
 [Testeo Video 1](https://drive.google.com/file/d/1AevmMTl0M5_3RJShUtyvf6ZxzMW_cKph/view?usp=sharing)
 No finalizado por problemas técnicos del dispositivo.
 
