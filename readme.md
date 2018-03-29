@@ -192,19 +192,19 @@ Esperamos que los testeos que deben realizarse puedan darnos un feedback que sir
 
 ##### Herramientas
 ***Front:***
-React
-Dependencias de Bootstrap
-Creación de componentes (8)
-API Rut
-GitHub
+React.
+Dependencias de Bootstrap.
+Creación de componentes (8).
+API Rut.
+GitHub.
 
 ***UX***
-Skecktches a mano alzada
+Skecktches a mano alzada.
 Personas
-Investigación cuantitativa
-Entrevistas en vivo
-Prototipo de Figma
-Github
+Investigación cuantitativa.
+Entrevistas en vivo.
+Prototipo de Figma.
+Github.
 
 
 
