@@ -1,6 +1,5 @@
-# Mejora Experiencia de App Banco Estado
-
-![Mou icon](http://3.bp.blogspot.com/-aPDeH9T47oo/TwEPPCIEUTI/AAAAAAAAAxo/_SZ5DiQXHJk/s1600/banco+estado.png)
+# Mejora Experiencia de una App móvil de banco.
+![estado](https://user-images.githubusercontent.com/32280840/38069176-6487bd76-32eb-11e8-9b0f-a43deb1acda4.png)
 
 ## Introducción
 ### Reto para hackaton:
@@ -18,9 +17,7 @@ Se realizó una votación, en la cual finalmente se decidió usar la App de Banc
 
 ![IMG](http://i67.tinypic.com/2cibfys.jpg)
 
-
 2. El equipo vió una oportunidad en el ámbito de trabajo técnico Front-end y un desafío en el aspecto UX.
-
 
 Para responder nuestras preguntas, revisamos los comentarios de los usuarios en la PlayStore, percibiendo tres grandes categorías:
 
@@ -34,7 +31,6 @@ Para responder nuestras preguntas, revisamos los comentarios de los usuarios en 
 
 
 Entre estas últimas calificaciones, encontramos una funcionalidad que muchos solicitaban para poder calificar en forma positiva la aplicación: la capacidad de transferir a terceros directamente desde el celular sin tener que pasar por el sitio web para agregar los destinatarios de la transacción:
-
 
 Ante los reclamos de los usuarios Banco Estado responde activamente, no dando una solución a este problema de depósitos a terceros en el celular por el momento.
 
