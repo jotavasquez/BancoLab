@@ -32,7 +32,6 @@ Para responder nuestras preguntas, revisamos los comentarios de los usuarios en 
 
 Entre estas últimas calificaciones, encontramos una funcionalidad que muchos solicitaban para poder calificar en forma positiva la aplicación: la capacidad de transferir a terceros directamente desde el celular sin tener que pasar por el sitio web para agregar los destinatarios de la transacción:
 
-
 Ante los reclamos de los usuarios Banco Estado responde activamente, no dando una solución a este problema de depósitos a terceros en el celular por el momento.
 
 Con estos antecedentes decidimos definir nuestro proyecto con la mejora del flujo de usuario al tratar de depositar en el celular a terceros que no hayan sido guardados previamente desde el sitio web.
