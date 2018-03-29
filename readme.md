@@ -1,4 +1,4 @@
-# Mejora Experiencia de una App móvil: Banco Estado.
+# Mejora Experiencia de una App móvil de banco.
 ![estado](https://user-images.githubusercontent.com/32280840/38069176-6487bd76-32eb-11e8-9b0f-a43deb1acda4.png)
 
 ## Introducción
