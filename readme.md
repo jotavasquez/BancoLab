@@ -164,8 +164,6 @@ Se dedidió hacer un prototipo de alta fidelidad para poder ser entregado al equ
 
 [Wireframe](https://www.figma.com/proto/gncudFk7eiSc5dnY5wZBj6rS/Banco-Estado?scaling=contain&node-id=3%3A1)
 
-[Acceso al proyecto en Figma](https://www.figma.com/file/gncudFk7eiSc5dnY5wZBj6rS/Banco-Estado)
-
 ### Testeo
 
 #### Objetivos:
